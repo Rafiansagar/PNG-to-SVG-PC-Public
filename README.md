@@ -43,8 +43,7 @@ It also creates intermediate `.bmp` files automatically.
 
 ## 📝 Notes
 
-✅ Only `.png` files in the current folder will be processed.  
-✅ Only `.png` files that have black color with white background like (example.png) will work.  
+✅ Only `.png` files in the current folder will be processed.
 ✅ `.svg` files are generated via Potrace.  
 ✅ `.bmp` intermediate files are saved for reference.
 
