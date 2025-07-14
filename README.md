@@ -1,4 +1,4 @@
-# PNG to SVG Converter (via Potrace)
+# PNG to SVG Converter
 
 A simple `.exe` tool to **convert `.png` files to `.svg` vector files** using **Potrace**.  
 It also creates intermediate `.bmp` files automatically.  
@@ -44,7 +44,7 @@ It also creates intermediate `.bmp` files automatically.
 ## 📝 Notes
 
 ✅ Only `.png` files in the current folder will be processed.  
-✅ `.svg` files are generated via Potrace.  
+✅ `.svg` files are generated.  
 ✅ `.bmp` intermediate files are saved for reference.
 
 ---
